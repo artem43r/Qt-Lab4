@@ -1,0 +1,38 @@
+# Qt Creator / Qt SDK
+*.pro.user
+*.pro.user.*
+*.user
+*.user.*
+*.autosave
+
+# Qt generated
+moc_*
+qrc_*
+ui_*
+.qmake.stash
+qmake_qmake_qm_files.qrc
+
+# Build artefacts
+build/
+build-*/
+debug/
+release/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.so.*
+*.dylib
+*.a
+*.lib
+*.pdb
+Makefile
+Makefile.*
+*.app/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
